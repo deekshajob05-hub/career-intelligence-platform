@@ -66,19 +66,19 @@ The dashboard is designed for:
 
 ### Executive Dashboard
 
-*(Screenshot will be added here.)*
+![Executive Dashboard](screenshots/executive-dashboard.png.png)
 
 ### Salary Analytics
 
-*(Screenshot will be added here.)*
+![Salary Analytics](screenshots/salary-analytics.png.png)
 
 ### Skills Analytics
 
-*(Screenshot will be added here.)*
+![Skills Analytics](screenshots/skills-analytics.png.png)
 
 ### Job Explorer
 
-*(Screenshot will be added here.)*
+![Job Explorer](screenshots/job-explorer.png.png)
 
 ---
 
