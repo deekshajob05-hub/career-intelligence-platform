@@ -68,18 +68,18 @@ The dashboard is designed for:
 
 ![Executive Dashboard](screenshots/executive-dashboard.png)
 
-### Salary Analytics
+### Hiring Cities & Experience Analysis
 
-![Salary Analytics](screenshots/salary-analytics.png)
+![Hiring Cities & Experience](screenshots/hiring-cities-experience.png)
 
-### Skills Analytics
+### Work Mode, Company Size & Salary Bands
 
-![Skills Analytics](screenshots/skills-analytics.png)
+![Work Mode Company Size Salary Band](screenshots/workmode-companysize-salaryband.png)
 
-### Job Explorer
 
-![Job Explorer](screenshots/job-explorer.png)
+### Salary vs Experience & Skills Analysis
 
+![Salary Skills Analysis](screenshots/salary-skills-analysis.png)
 ---
 
 ## 📊 Key Insights
