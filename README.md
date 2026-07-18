@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Career Intelligence Platform Banner" width="100%">
+</p>
 # 📊 Career Intelligence Platform
 
 > **Interactive Workforce Analytics Dashboard for the Indian Technology Job Market (2026)**
