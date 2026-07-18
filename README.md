@@ -115,6 +115,10 @@ career-intelligence-platform/
 - Live Job Market Integration
 
 ---
+## 📚 Documentation
+
+- [Project Overview](documentation/project-overview.md)
+- [Business Insights](documentation/business-insights.md)
 
 ## 👩‍💻 Author
 
