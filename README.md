@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Career Intelligence Platform Banner">
+  <img src="assets/banner.png" alt="Career Intelligence Platform Banner" width="100%">
 </p>
 # 📊 Career Intelligence Platform
 
